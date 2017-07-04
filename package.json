@@ -1,0 +1,21 @@
+{
+  "name": "pcbeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "colors": "^1.1.2",
+    "html-to-text": "^3.3.0",
+    "moment": "^2.18.1",
+    "mysql-pro": "^1.0.1",
+    "q": "^1.5.0",
+    "superagent": "^3.5.2",
+    "superagent-charset": "^1.2.0"
+  }
+}
